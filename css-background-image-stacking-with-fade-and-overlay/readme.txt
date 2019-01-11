@@ -1,0 +1,3 @@
+A Pen created at CodePen.io. You can find this one at https://codepen.io/randseay/pen/bVWEPJ.
+
+ Use CSS background stacking to overlay a hero image and add a fade in effect to smooth out loading. No extra markup! I also made it into a Sass mixin to  obtain consistent results with any background image (similar to the system used on my site). Images from http://www.unsplash.com. Feel free to play around with it!
